@@ -381,5 +381,15 @@ Conclusión
 Fin
 ###
 
+`Fuente <https://github.com/danielstp/PresentaSeguridadMasQueUnFirewall>`_
+
+
+El texto está disponible bajo la Licencia Creative Commons Atribución Compartir
+Igual 3.0; pueden aplicarse cláusulas adicionales. Al usar este sitio, usted
+acepta nuestros términos de uso y nuestra política de privacidad.
+
+Wikipedia® es una marca registrada de la Fundación Wikimedia, Inc., una
+organización sin ánimo de lucro.
+
 ¡¡¡ Gracias !!!
 ^^^^^^^^^^^^^^^
