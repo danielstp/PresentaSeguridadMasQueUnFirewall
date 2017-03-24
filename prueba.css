@@ -68,3 +68,15 @@ div#step-1 {
 div#step-1 > ul > li {
     line-height: 1em;
 }
+
+div#step-20, div#step-21 {
+    font-size: 220%;
+}
+
+div#step-22 {
+    font-size: 180%;
+}
+
+div#step-23, div#step-24, div#step-25 {
+    color: chartreuse;
+}
